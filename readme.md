@@ -5,30 +5,37 @@ https://dectalk.nu/Texts/
 
 ## Annoying Monster TTS
 
+Annoying Zap Sound
 ```
 biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, 
 ```
 
+Random Copy Pasta
 ```
 (phone_ringing) Beauty: This girl doesn't like you like I do. Asmr: Let me show you how much I like you (pants_unzip) (gasp_female) Asmr: oh my good it's huge (drinking) (drinking_2) (drinking) (drinking) (gasp_female) Beauty: thanks for dinner
 ```
 
+Annoying Scream
 ```
 chloe: aaaaa! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA aaaaaaaaaaaaaaaaaaa aaaaaaaaa!!!!!!!! aaaaaaaaaaaaaaaaaaaaaaaa aaaaa! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA aaaaaaaaaaaaaaaaaaa aaaaaaaaa!!!!!!!! aaaaaaaaaaaaaaaaaaaaaaaa aaaaa! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA aaaaaaaaaaaaaaaaaaa aaaaaaaaa!!!!!!!! aaaaaaaaaaaaaaaaaaaaaaaa aaaaa! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA aaaaaaaaaaaaaaaaaaa aaaaaaaaa!!!!!!!! Aaaaaaaaaaaaaaaaaaaaaaaa
 ```
 
+Very Stupid
 ```
 dracula: hey buddy. (silence) i said hey buddy. I have a magic trick for you. I can guess your age.  Take your average bet size of $5, multiply it by the current bonus you're on, 10. Subtract 7 because fuck you. Congrats, you're 43
 ```
 
+Very Stupid Again
 ```
 dracula: bean is sexy (buzzer) bean is 27 (buzzer) bean is skinny (buzzer) bean is less than 400 pounds (buzzer) bean gets lots of bitches (buzzer) bean spends less than $100,000 a year on door dash (buzzer) bean has a big dick (buzzer) bean clogs toilets (tada) bean gets no bitches (tada) 
 ```
- 
+
+ Makes "oou" and grunt sounds
 ```
 barto: U;U;U;U;U;U;U;U;U;U;U;U;  spongebob: L L L L L L L barto: U;U;U;U;U;U;U;U;U;U;U;U; spongebob: L L L L L L L barto: U;U;U;U;U;U;U;U;U;U;U;U; spongebob: L L L L L L L barto: U;U;U;U;U;U;U;U;U;U;U;U; spongebob: L L L L L L L barto: U;U;U;U;U;U;U;U;U;U;U;U;
 ```
 
+VERY annoying
 ```
 cdew: おい、俺はパソコンを使いたくないんだ。他にこんな人いる？ここ2ヶ月、いや、ここ2ヶ月くらい、パソコンを使いたくないんだ。もうパソコンに飽きたって感じ
 ```
@@ -58,6 +65,7 @@ may<300,20>baa<300,29>niy<150,27>lay<300,25>zow<300,25>vrr<300,24>dhax<300,25>si
 may<300,20>baa<300,29>niy<150,27>lay<300,25>zow<300,27>vrr<300,25>dhiy<300,22>ow<300,20>shax<1200,17>n<80,22>sow<300,20> brih<300,22>nx<50,32> bae<300,27>k may<300,25>baa<300,24> niy<300,22> tuw<300,24>miy<1200,25>:np] Command Error [:dv gv 99][,<9000>laa<18000,21>]
 ```
 
+Amazing Grace intro followed by loud LAAAAAAA
 ```
 [:phone arpa on :np][
 ax<600,13>
@@ -106,10 +114,7 @@ lxuw<500,25>]
 ```
 
 ```
-[:phone arpa on][:np :ra 50][:dv gv 70]  
-
-  
-
+[:phone arpa on][:np :ra 50][:dv gv 70]
 [hx<200,8> aa<400,14>,<200>]  
 
 [hx<200,8> aa<400,14>,<200>]  
@@ -179,6 +184,7 @@ lxaa<300,20>lxaa<300,18>lxaa<300,18>lxaa<300,20>lxaa<600,18>,<300> ]
 [ae<99,12>n<99,10>d<99,10>p<99,10>r<99,10>ih<200,12>t<99,10>eh<99,12>n<99,10>d<99,10> l<99,10> ay<99,12>k<99,10>ih<99,12>dh<99,10> ey<99,12> ae<99,12> r<99,10>w<99,10>ih<99,12>m<99,10> eh<99,12>n<99,10>s<99,14>,<5>t<200,14>ih<120,12>t<200,14> lxiy <15000,14>]
 ```
 
+Just HA HA HA
 ```
 [:phone arpa on][:dv gv 970] 
 
