@@ -1,4 +1,5 @@
 # Twitch TTS
+Especially designed for Bean's channel.
 
 ### References
 https://dectalk.nu/Texts/
