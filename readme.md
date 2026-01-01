@@ -16,6 +16,11 @@ biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden
 barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!!
 ```
 
+Big Bonus
+```
+Dracula: yo bean!!! there’s a bonus in my pants! try some spins on my pants! I got a big bonus in my pants! it’s hard! it’s really fucking hard to spin into! but trust me, it’s a big win! a big veiny max win bonus is hiding in my pants! come get this dick!
+```
+
 Duck
 ```
 tomnook: O E I E O E I E O E I E OOIIOOII O E I E O E I E O E I E OOIIOOII Q J E J Q J E J Q J E J Q J E J Q J E J Q J E J Q J E J Q J E J K. .G.G.Z. .G.Z.K.G.G.G.Z. .G. .K. .G.G.Z. .G.Z.K.G.G.G.K.K.K.G.K. .G.G.Z. .G.Z.K.G.G.G.Z. NNNNN LᴾᴾᴾLᴾᴾᴾLᴾLᴾLᴾᴾᴾLᴾLLLᴾLᴾᴾᴾLᴾLᴾᴾᴾ Q J E J Q J E J Q J E J Q
