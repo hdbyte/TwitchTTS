@@ -11,6 +11,11 @@ Annoying Zap Sound
 biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, 
 ```
 
+fahk mee
+```
+barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; U;U;U;fahk meeeee! fahk meeeee? fahk meeeee? hoe! hoe!? U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; fahk meeeee?
+```
+
 'fucka' followed by screeches
 ```
 barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!!
@@ -19,6 +24,11 @@ barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaa
 Big Bonus
 ```
 Dracula: yo bean!!! there’s a bonus in my pants! try some spins on my pants! I got a big bonus in my pants! it’s hard! it’s really fucking hard to spin into! but trust me, it’s a big win! a big veiny max win bonus is hiding in my pants! come get this dick!
+```
+
+Engine Sounds
+```
+Johnny: My car sounds like Kkona: vv ,,,,, vv ;;;;; vv ,,,,, vv ;;;;; vv ,,,,, vv ;;;;; Johnny: when I'm trying to start it.
 ```
 
 Duck
@@ -60,9 +70,7 @@ cdew: おい、俺はパソコンを使いたくないんだ。他にこんな�
 spongebob: ee?ee?ee?ee?ee?ee?ee?ee? ee?ee?ee?ee?ee?ee?ee?ee? ee?ee?ee?ee?ee?ee? ee?ee?ee?ee?ee?ee?ee? ee?ee?ee?ee?ee?ee?ee?ee?ee? ee?ee?ee?ee?ee?ee?ee?ee?ee? ee?ee?ee?ee?ee?ee?ee?ee?ee? Ee?ee?ee?ee?ee?ee?ee?ee?ee?ee? 
 ```
  
-```
-barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; U;U;U;fahk meeeee! fahk meeeee? fahk meeeee? hoe! hoe!? U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; fahk meeeee?
-```
+
  
 ```
 barto: yeeeeeee! yeeeeee? yeeeeeee! (silence) yeeeeeee! yeeeeee? yeeeeeee! (silence) yeeeeeee! yeeeeee? yeeeeeee! (silence) yeeeeeee! yeeeeee? yeeeeeee!
