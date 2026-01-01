@@ -50,7 +50,7 @@ spongebob: ee?ee?ee?ee?ee?ee?ee?ee? ee?ee?ee?ee?ee?ee?ee?ee? ee?ee?ee?ee?ee?ee? 
 ```
  
 ```
-barto: Where is my daddy! meow_? =2? Why dont you just faahk me! faahk mee! fahk meeeee! fahk meeeee! fahk meeeee? fahk meeeee? hoe! hoe!? hoe! 2? 2? 2?! meeeoww! meow_? =2? 
+barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; U;U;U;fahk meeeee! fahk meeeee? fahk meeeee? hoe! hoe!? U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; fahk meeeee?
 ```
  
 ```
