@@ -10,6 +10,11 @@ Annoying Zap Sound
 biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, 
 ```
 
+Duck
+```
+tomnook: O E I E O E I E O E I E OOIIOOII O E I E O E I E O E I E OOIIOOII Q J E J Q J E J Q J E J Q J E J Q J E J Q J E J Q J E J Q J E J K. .G.G.Z. .G.Z.K.G.G.G.Z. .G. .K. .G.G.Z. .G.Z.K.G.G.G.K.K.K.G.K. .G.G.Z. .G.Z.K.G.G.G.Z. NNNNN LᴾᴾᴾLᴾᴾᴾLᴾLᴾLᴾᴾᴾLᴾLLLᴾLᴾᴾᴾLᴾLᴾᴾᴾ Q J E J Q J E J Q J E J Q
+```
+
 Random Copy Pasta
 ```
 (phone_ringing) Beauty: This girl doesn't like you like I do. Asmr: Let me show you how much I like you (pants_unzip) (gasp_female) Asmr: oh my good it's huge (drinking) (drinking_2) (drinking) (drinking) (gasp_female) Beauty: thanks for dinner
