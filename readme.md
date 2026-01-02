@@ -102,6 +102,10 @@ barto: yeeeeeee! yeeeeee? yeeeeeee! (silence) yeeeeeee! yeeeeee? yeeeeeee! (sile
 
 ## DecTalk TTS
 ```
+[:phone arpa on][lxaa<300,18>,lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,20>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<300,18>lxaa<300,13>lxaa<300,18>lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,18>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<600,18>lxaa<150,18>lxaa<150,18>lxaa<150,18>lxaa<150,22>lxaa<150,25>lxaa<150,25>lxaa<300,25>lxaa<150,25>lxaa<150,27>lxaa<150,25>lxaa<150,23>lxaa<150,22>lxaa<150,20>lxaa<300,18>lxaa<150,25>lxaa<150,25>lxaa<300,25>][:dv gv 99][,<5000>lxaa<30000,25>]
+```
+
+```
 [:phoneme on][:dv gv 99] 
 [aoll<600,60>hx<50,65>ey<650,65>ll<100,65>dh<50,70>ax<150,70>p<50,80>rr<100,80>ih<500,80>n<100,80>z<150,80>ax<150,70>v<150,70>rr<150,60>ih<700,60>n<150,60>z<200,60>rr<100,60>ih<200,60>n<100,60>z<100,60>rr<100,60>ih<200,60>n<100,60>z<100,60>rr<100,50>ih<400,50>n<100,50>z<400,50>rr<100,50>ih<400,50>n<100,50>z<400,50>rr<100,50>ih<400,50>n<100,50>z<400,50>rr<100,50>ih<400,50>n<100,50>z<400,50>,<2000>laa<20000,25>]
 ```
