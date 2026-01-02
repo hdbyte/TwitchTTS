@@ -25,6 +25,9 @@ annoying (found in graycen chat)
 ```
 cdew: Clifftop! (bleep) Vittu! (bleep) cabron! (bleep) Fitta. (silence) ! (silence)
 ```
+```
+cdew: Vittu! (bleep) Clifftop! (bleep) ! (silence)
+```
 
 bean psyduck
 ```
