@@ -21,6 +21,11 @@ barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;
 barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!!
 ```
 
+bean psyduck
+```
+Bean: hey mitch its bean here! how is the hunt going? happy new year by the way. hold on be right back my toy psyduck needs something. (slow_clap) (slow_clap) (slow_clap). (silence) (silence) (silence). Barto: LAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+```
+
 Big Bonus
 ```
 Dracula: yo bean!!! there’s a bonus in my pants! try some spins on my pants! I got a big bonus in my pants! it’s hard! it’s really fucking hard to spin into! but trust me, it’s a big win! a big veiny max win bonus is hiding in my pants! come get this dick!
