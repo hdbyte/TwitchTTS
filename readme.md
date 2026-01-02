@@ -21,6 +21,11 @@ barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;
 barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!!
 ```
 
+annoying (found in graycen chat)
+```
+cdew: Clifftop! (bleep) Vittu! (bleep) cabron! (bleep) Fitta. (silence) ! (silence)
+```
+
 bean psyduck
 ```
 Bean: hey mitch its bean here! how is the hunt going? happy new year by the way. hold on be right back my toy psyduck needs something. (slow_clap) (slow_clap) (slow_clap). (silence) (silence) (silence). Barto: LAAAAAAAAAAAAAAAAAAAAAAAAAAAA
