@@ -1,8 +1,9 @@
 # Twitch TTS
 Especially designed for Bean's channel.
+W BEAN VIEWERS
 
 ### References
-https://dectalk.nu/Texts/
+[DecTalk Songs for tangia](https://dectalk.nu/Texts/)
 
 ## Annoying Monster TTS
 
@@ -37,6 +38,11 @@ Bean: hey mitch its bean here! how is the hunt going? happy new year by the way.
 Big Bonus
 ```
 Dracula: yo bean!!! there’s a bonus in my pants! try some spins on my pants! I got a big bonus in my pants! it’s hard! it’s really fucking hard to spin into! but trust me, it’s a big win! a big veiny max win bonus is hiding in my pants! come get this dick!
+```
+
+long farting noise
+```
+obiwan: ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...?!; ...?! ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...?!; ...?! ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...?!; ...?! ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...?!; ...?! ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...?!; ...?! ...; ...; ...; ¿
 ```
 
 Engine Sounds
