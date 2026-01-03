@@ -28,6 +28,11 @@ barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaa
 cdew: interesting, this is kinda interesting. Like it's interesting. It's an interesting script. Like it's interesting. Weird. That was weird. Its a weird script. Like it's kinda weird. It's weird. Weird script. Like it's so weird but like it's like interesting. Like it could do something here. So weird. But like so interesting. Like kinda weird and interesting.
 ```
 
+**Classic UU RR**
+```
+brian: UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU? RR? UU?
+```
+
 **Graycen Chat Script**
 ```
 cdew: Clifftop! (bleep) Vittu! (bleep) cabron! (bleep) Fitta. (silence) ! (silence)
