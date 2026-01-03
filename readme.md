@@ -22,7 +22,7 @@ barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;
 barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!!
 ```
 
-This is interesting
+This is interesting (created by sporz)
 ```
 cdew: interesting, this is kinda interesting. Like it's interesting. It's an interesting script. Like it's interesting. Weird. That was weird. Its a weird script. Like it's kinda weird. It's weird. Weird script. Like it's so weird but like it's like interesting. Like it could do something here. So weird. But like so interesting. Like kinda weird and interesting.
 ```
@@ -31,6 +31,7 @@ annoying (found in graycen chat)
 ```
 cdew: Clifftop! (bleep) Vittu! (bleep) cabron! (bleep) Fitta. (silence) ! (silence)
 ```
+
 ```
 cdew: Vittu! (bleep) Clifftop! (bleep) ! (silence)
 ```
