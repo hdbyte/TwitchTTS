@@ -43,6 +43,11 @@ cdew: Clifftop! (bleep) Vittu! (bleep) cabron! (bleep) Fitta. (silence) ! (silen
 cdew: Vittu! (bleep) Clifftop! (bleep) ! (silence)
 ```
 
+**Found in Graycen Chat**
+```
+Cheer300 dracula: ah shit farting on my roommates door. obiwan: ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...; ...; ...; ¿; ...?; ...?; ...?; ...?!;
+```
+
 **Bean Psyduck**
 ```
 Bean: hey mitch its bean here! how is the hunt going? happy new year by the way. hold on be right back my toy psyduck needs something. (slow_clap) (slow_clap) (slow_clap). (silence) (silence) (silence). Barto: LAAAAAAAAAAAAAAAAAAAAAAAAAAAA
