@@ -7,7 +7,7 @@
 
 **Song then LAAAAAA**
 ```
-[:phone arpa on][lxaa<300,18>,lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,20>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<300,18>lxaa<300,13>lxaa<300,18>lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,18>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<600,18>lxaa<150,18>lxaa<150,18>lxaa<150,18>lxaa<150,22>lxaa<150,25>lxaa<150,25>lxaa<300,25>lxaa<150,25>lxaa<150,27>lxaa<150,25>lxaa<150,23>lxaa<150,22>lxaa<150,20>lxaa<300,18>lxaa<150,25>lxaa<150,25>lxaa<300,25>][:dv gv 99][,<5000>lxaa<30000,25>]
+[:phone arpa on][lxaa<300,18>,lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,20>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<300,18>lxaa<300,13>lxaa<300,18>lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,18>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<600,18>lxaa<150,18>lxaa<150,18>lxaa<150,18>lxaa<150,22>lxaa<150,25>lxaa<150,25>lxaa<300,25>lxaa<150,25>lxaa<150,27>lxaa<150,25>lxaa<150,23>lxaa<150,22>lxaa<150,20>lxaa<300,18>lxaa<150,25>lxaa<150,25>lxaa<300,25>][:dv gv 99][,<5000>laa<30000,25>]
 ```
 
 **Song then LAAAAAA**
@@ -57,138 +57,84 @@ blay<1200,18>nd][:dv gv 99][laa<18000,21>]
 
 **Melody then LAAAAAA**
 ```
-[:phone arpa on][:dv gv 70]  
-
-[ lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100>  
-
-lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250>  
-
-lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100>  
-
-lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250>  
-
-lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100>  
-
-lxuw<500,25>] 
-
-[:dv gv 950] [lxuw<18000,21>,<250> ]
+[:phone arpa on][:dv gv 70]
+[lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100>
+lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250>
+lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100>
+lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250>
+lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100>
+lxuw<500,25>]
+[:dv gv 99][lxuw<18000,21>,<250>]
 ```
 
 **Melody then LAAAAAA**
 ```
 [:phone arpa on][:np :ra 50][:dv gv 70]
-[hx<200,8> aa<400,14>,<200>]  
-
-[hx<200,8> aa<400,14>,<200>]  
-
-[hx<200,8> aa<400,14>,<200>] 
-
-[n<400,60> ow<2000,60>]  
-
-[b<400,70> ow<800,70>] 
-
-[n<400,70> ax<800,70>] 
-
-[s<400,70> ih<800,70> z<1200,70>,<1000>] 
-
-[n<400,85> ow<2000,85>]  
-
-[b<400,90> ow<800,90>] 
-
-[n<400,90> ax<800,90>] 
-
-[s<400,90> ih<800,90> z<1500,90>,<1000>] 
-
+[hx<200,8> aa<400,14>,<200>]
+[hx<200,8> aa<400,14>,<200>]
+[hx<200,8> aa<400,14>,<200>]
+[n<400,60> ow<2000,60>]
+[b<400,70> ow<800,70>]
+[n<400,70> ax<800,70>]
+[s<400,70> ih<800,70> z<1200,70>,<1000>]
+[n<400,85> ow<2000,85>]
+[b<400,90> ow<800,90>]
+[n<400,90> ax<800,90>]
+[s<400,90> ih<800,90> z<1500,90>,<1000>]
 [hx<200,8> aa<400,14>,<200>] [hx<200,8> aa<400,14>,<200>] [hx<200,8> aa<400,14>,<200>] [hx<200,8> aa<14000,14>,<200>]
 ```
 
 **We Wish You a Merry Christmas then LAAAAAA**
 ```
-[:phone arpa on][:np :ra 200][:dv gv 70]   
-
-[wiy<300,10>wih<300,15>sh<150,15>yuw<150,15>ax<150,17>meh<150,15>riy<150,14>krih<300,12>smaxs<300,12>,<150>wiy<300,12>wih<300,17>sh<150,17>yuw<150,17>ax<150,19>meh<150,17>riy<150,15>krih<300,14>smaxs<300,10>,<150> 
-
-wiy<300,10>wih<300,19>sh<150,19>yuw<150,19>ax<150,20>meh<150,19>riy<150,17>krih<300,15>smaxs<300,12>,<150> 
-
-ae<150,10>nd<150,10>ax<150,10>hx<150,12>ae<300,12>p<200,17>iy<300,17>nuw<1000,15>] 
-
-[:dv gv 950][lxaa<15000,15>]
+[:phone arpa on][:np :ra 200][:dv gv 70]
+[wiy<300,10>wih<300,15>sh<150,15>yuw<150,15>ax<150,17>meh<150,15>riy<150,14>krih<300,12>smaxs<300,12>,<150>wiy<300,12>wih<300,17>sh<150,17>yuw<150,17>ax<150,19>meh<150,17>riy<150,15>krih<300,14>smaxs<300,10>,<150>
+wiy<300,10>wih<300,19>sh<150,19>yuw<150,19>ax<150,20>meh<150,19>riy<150,17>krih<300,15>smaxs<300,12>,<150>
+ae<150,10>nd<150,10>ax<150,10>hx<150,12>ae<300,12>p<200,17>iy<300,17>nuw<1000,15>]
+[:dv gv 99][lxaa<15000,15>]
 ```
 
 **Melody then LAAAAAA**
 ```
-[:phone arpa on][:np :ra 200][:dv gv 70]   
-
-  
-
-[lxaa<300,20>lxaa<300,20>lxaa<600,20>,<150>  
-
-lxaa<300,20>lxaa<300,20>lxaa<600,20>,<150> 
-
-lxaa<300,20>lxaa<300,23>lxaa<300,16>lxaa<150,18>lxaa<600,20>,<300> 
-
-  
-
-lxaa<300,21>lxaa<300,21>lxaa<300,21>lxaa<150,21>lxaa<300,21>  
-
-lxaa<300,20>lxaa<300,20>lxaa<150,20>lxaa<150,20>  
-
-lxaa<300,20>lxaa<300,18>lxaa<300,18>lxaa<300,20>lxaa<600,18>,<300> ] 
-
+[:phone arpa on][:np :ra 200][:dv gv 70]
+[lxaa<300,20>lxaa<300,20>lxaa<600,20>,<150>
+lxaa<300,20>lxaa<300,20>lxaa<600,20>,<150>
+lxaa<300,20>lxaa<300,23>lxaa<300,16>lxaa<150,18>lxaa<600,20>,<300>
+lxaa<300,21>lxaa<300,21>lxaa<300,21>lxaa<150,21>lxaa<300,21>
+lxaa<300,20>lxaa<300,20>lxaa<150,20>lxaa<150,20>
+lxaa<300,20>lxaa<300,18>lxaa<300,18>lxaa<300,20>lxaa<600,18>,<300>]
 [:dv gv 950] [lxaa<16000,23>]
 ```
 
 **Melody then LAAAAAA**
 ```
-[:phone arpa on][:dv gv 970]  
-
-[hx<40,8> aa<160,14>,<100>hx<40,8>aa<160,14>]  
-
-[d<90,10>ow<140,12>yu<120,14>p<90,10> l<80,10> ae<140,13>w<100,10> ih<120,12> th<60,10>yu<120,14> r<80,10>,<5>t<200,14> ih<120,12> t<200,14>s,<90,14>] 
-
+[:phone arpa on][:dv gv 970]
+[hx<40,8> aa<160,14>,<100>hx<40,8>aa<160,14>]
+[d<90,10>ow<140,12>yu<120,14>p<90,10> l<80,10> ae<140,13>w<100,10> ih<120,12> th<60,10>yu<120,14> r<80,10>,<5>t<200,14> ih<120,12> t<200,14>s,<90,14>]
 [ae<99,12>n<99,10>d<99,10>p<99,10>r<99,10>ih<200,12>t<99,10>eh<99,12>n<99,10>d<99,10> l<99,10> ay<99,12>k<99,10>ih<99,12>dh<99,10> ey<99,12> ae<99,12> r<99,10>w<99,10>ih<99,12>m<99,10> eh<99,12>n<99,10>s<99,14>,<5>t<200,14>ih<120,12>t<200,14> lxiy <15000,14>]
 ```
 
 **Just HA HA HA**
 ```
-[:phone arpa on][:dv gv 970] 
-
-[hx<40,8> aa<160,14>] 
-
-[hx<40,8> aa<160,14>] 
-
+[:phone arpa on][:dv gv 970]
+[hx<40,8> aa<160,14>]
+[hx<40,8> aa<160,14>]
 [hx<40,8> aa<160,14>]
 ```
 
 **Melody then LAAAAAA**
 ```
-[:phone arpa on][:dv gv 950] 
-
-[ 
-
-lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100> 
-
-lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250> 
-
-lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100> 
-
-lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250> 
-
-lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100> 
-
-lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250> 
-
-lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100> 
-
-lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250> 
-
-lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100> 
-
-lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250> 
-
-lxiy<200,38>lxiy<15000,40> 
-
-]
+[:phone arpa on][:dv gv 950]
+[lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100>
+lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250>
+lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100>
+lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250>
+lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100>
+lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250>
+lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100>
+lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250>
+lxiy<200,38>lxiy<200,40>lxiy<200,42>,<100>
+lxuw<500,25>lxuw<500,23>lxuw<800,21>,<250>
+lxiy<200,38>lxiy<15000,40>]
 ```
 
 **Alphabet then LAAAAAA**
@@ -198,18 +144,12 @@ lxiy<200,38>lxiy<15000,40>
 
 **Melody then LAAAAAA**
 ```
-[:phone arpa on][:np :ra 200][:dv gv 950]  
-
-[lxaa<300,10>lxaa<150,17>lxaa<150,17>lxaa<150,5>,<150>lxaa<150,17>,<150>lxaa<300,10>lxaa<150,17>lxaa<150,17>lxaa<150,5>,<150> 
-
-lxaa<150,17>,<150>lxaa<300,10> 
-
-lxaa<150,17>lxaa<150,17>lxaa<150,5>,<150>lxaa<150,17>,<150>lxaa<300,10>lxaa<150,17> 
-
-lxaa<150,17>lxaa<150,5>,<150>lxaa<150,17>,<150> 
-
-lxaa<150,28>lxaa<1200,29>,<150>lxaa<300,29>lxaa<150,30>lxaa<150,33> 
-
+[:phone arpa on][:np :ra 200][:dv gv 99]
+[lxaa<300,10>lxaa<150,17>lxaa<150,17>lxaa<150,5>,<150>lxaa<150,17>,<150>lxaa<300,10>lxaa<150,17>lxaa<150,17>lxaa<150,5>,<150>
+lxaa<150,17>,<150>lxaa<300,10>
+lxaa<150,17>lxaa<150,17>lxaa<150,5>,<150>lxaa<150,17>,<150>lxaa<300,10>lxaa<150,17>
+lxaa<150,17>lxaa<150,5>,<150>lxaa<150,17>,<150>
+lxaa<150,28>lxaa<1200,29>,<150>lxaa<300,29>lxaa<150,30>lxaa<150,33>
 lxaa<150,34>lxaa<150,33>lxaa<75,30>lxaa<75,33>lxaa<75,30>lxaa<15200,29>,<600>]
 ```
 
@@ -220,9 +160,8 @@ lxaa<150,34>lxaa<150,33>lxaa<75,30>lxaa<75,33>lxaa<75,30>lxaa<15200,29>,<600>]
 
 **B Buzz**
 ```
-[:phoneme on] 
-
-[:dv gv 950 ap 5]  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+[:phoneme on]
+[:dv gv 99 ap 5]  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 ```
 
 **Annoying Tone Sequence**
