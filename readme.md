@@ -45,7 +45,7 @@ cdew: Vittu! (bleep) Clifftop! (bleep) ! (silence)
 
 **Found in Graycen Chat**
 ```
-Cheer300 dracula: ah shit farting on my roommates door. obiwan: ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...; ...; ...; ¿; ...?; ...?; ...?; ...?!;
+dracula: ah shit farting on my roommates door. obiwan: ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...; ...; ...; ¿; ...?; ...?; ...?; ...?!; ...; ...; ...; ¿; ...?; ...?; ...?; ...?!;
 ```
 
 **Bean Psyduck**
