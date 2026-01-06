@@ -18,6 +18,11 @@ biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden
 barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; U;U;U;fahk meeeee! fahk meeeee? fahk meeeee? hoe! hoe!? U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; fahk meeeee?
 ```
 
+**FAHK MEEE Evolution**
+```
+barto: hello, bean. I am. your. new. eh cho ehhh. president. You. have. a. new. fine. for. pooping. in. the. pool. To. clear. this. fine. barto: Why don't you faahk me in the ih aah! s ih aah! s ih aah! s fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; U;U;U;fahk meeeee!
+```
+
 **Classic Fuckaaaa OOH OOH OOOH**
 ```
 barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!!
