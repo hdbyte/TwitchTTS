@@ -14,3 +14,7 @@ all you virgins do is copy paste spam and spam tts and ruin this enjoyable strea
 ```
 ShrekBabyDancing soft ass viewers
 ```
+
+```
+DavidDark_YT HIS MOM IS HOMELESS
+```
