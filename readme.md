@@ -122,3 +122,8 @@ barto: yeeeeeee! yeeeeee? yeeeeeee! (silence) yeeeeeee! yeeeeee? yeeeeeee! (sile
 ```
 watchmojo: L_? L_? L_? L_? L_? K_? L_? L_? L_? L_? L_? K_? L_? L_? L_? L_? L_? K_? L_? L_? L_? L_? L_? K_? L_? L_? L_? L_? L_? K_? L_? L_? L_?
 ```
+
+**long ooooooh style sound**
+```
+weeknd: yLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWL
+```
