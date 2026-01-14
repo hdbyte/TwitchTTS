@@ -13,6 +13,11 @@ Especially designed for Bean viewers.
 biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, 
 ```
 
+**Lawn Mower**
+```
+dracula: Time to mow the lawn! kkona: vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz
+```
+
 **Classic FAHK MEEEE**
 ```
 barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; U;U;U;fahk meeeee! fahk meeeee? fahk meeeee? hoe! hoe!? U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; fahk meeeee?
