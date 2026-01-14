@@ -13,6 +13,11 @@ Especially designed for Bean viewers.
 biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, 
 ```
 
+**cdew head hit** found in mitch chat
+```
+cdew: Hey mitch, check how hard i can hit my head (bonk) ! (silence) ! (silence) ! (silence) ! (silence) ! (silence) ! ! (silence) ! (silence) ! (silence) ! (silence) ! (silence) !
+```
+
 **Lawn Mower**
 ```
 dracula: Time to mow the lawn! kkona: vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz
