@@ -10,6 +10,15 @@
 [:phone arpa on][lxaa<300,18>,lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,20>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<300,18>lxaa<300,13>lxaa<300,18>lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,18>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<600,18>lxaa<150,18>lxaa<150,18>lxaa<150,18>lxaa<150,22>lxaa<150,25>lxaa<150,25>lxaa<300,25>lxaa<150,25>lxaa<150,27>lxaa<150,25>lxaa<150,23>lxaa<150,22>lxaa<150,20>lxaa<300,18>lxaa<150,25>lxaa<150,25>lxaa<300,25>][:dv gv 99][,<5000>laa<30000,25>]
 ```
 
+**arab then LAAAA after 25 second wait**
+```
+[:phone arpa on][:np :ra 200]
+[lxaa<300,10>lxaa<150,17>lxaa<150,17>lxaa<150,5>,<150>lxaa<150,17>,<150>lxaa<300,10>lxaa<150,17>lxaa<150,17>lxaa<150,5>,<150>lxaa<150,17>,<150>lxaa<300,10>lxaa<150,17>lxaa<150,17>lxaa<150,5>,<150>lxaa<150,17>,<150>lxaa<300,10>lxaa<150,17>
+lxaa<150,17>lxaa<150,5>,<150>lxaa<150,17>,<150>lxaa<150,28>lxaa<1200,29>,<150>
+lxaa<300,29>lxaa<150,30>lxaa<150,33>lxaa<150,34>lxaa<150,33>lxaa<75,30>lxaa<75,33>lxaa<75,30>lxaa<800,29>,<600>]
+[:dv gv 99][,<25000>laa<30000,30>]
+```
+
 **Song then LAAAAAA**
 ```
 [:phoneme on][:dv gv 99] 
