@@ -28,6 +28,11 @@ dracula: Time to mow the lawn! kkona: vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,
 barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; U;U;U;fahk meeeee! fahk meeeee? fahk meeeee? hoe! hoe!? U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; fahk meeeee?
 ```
 
+**Classic FAHK MEEE** (if barto blocked)
+```
+Zerotwo: fawk me! fawk me! U,U,u,U,U,U!
+```
+
 **FAHK MEEE Evolution**
 ```
 barto: hello, bean. I am. your. new. eh cho ehhh. president. You. have. a. new. fine. for. pooping. in. the. pool. To. clear. this. fine. barto: Why don't you faahk me in the ih aah! s ih aah! s ih aah! s fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; U;U;U;fahk meeeee!
