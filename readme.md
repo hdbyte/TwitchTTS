@@ -30,7 +30,7 @@ barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;
 
 **Classic FAHK MEEE** (if barto blocked)
 ```
-Zerotwo: fawk me! fawk me! U,U,u,U,U,U!
+zerotwo: fawk me! fawk me! o o o o o o o o o o o o o o o o fawk me! fawk me! o o o o o o o o o o fawk me! fawk me! o o o o o o o o 
 ```
 
 **FAHK MEEE Evolution**
