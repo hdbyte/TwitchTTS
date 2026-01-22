@@ -48,6 +48,11 @@ barto: hello, bean. I am. your. new. eh cho ehhh. president. You. have. a. new. 
 barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!!
 ```
 
+**Annoying PEPE** (found in Graycen)
+```
+Pepe: Pfft! Pfft! Pepe: hehehehehehehehehe hehehehehehehehehehe hehehehehehehehehehehehehehe Pepe: Pfft! Pfft! Pepe: Pfft! Pfft!
+```
+
 **Interesting Script (by Sporz)**
 ```
 cdew: interesting, this is kinda interesting. Like it's interesting. It's an interesting script. Like it's interesting. Weird. That was weird. Its a weird script. Like it's kinda weird. It's weird. Weird script. Like it's so weird but like it's like interesting. Like it could do something here. So weird. But like so interesting. Like kinda weird and interesting.
