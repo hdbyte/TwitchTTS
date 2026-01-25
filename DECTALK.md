@@ -9,6 +9,16 @@
 ```
 [:phone arpa on][lxaa<300,18>,lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,20>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<300,18>lxaa<300,13>lxaa<300,18>lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,18>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<600,18>lxaa<150,18>lxaa<150,18>lxaa<150,18>lxaa<150,22>lxaa<150,25>lxaa<150,25>lxaa<300,25>lxaa<150,25>lxaa<150,27>lxaa<150,25>lxaa<150,23>lxaa<150,22>lxaa<150,20>lxaa<300,18>lxaa<150,25>lxaa<150,25>lxaa<300,25>][:dv gv 99][,<5000>laa<30000,25>]
 ```
+**ameno then LAAAAAA**
+```
+[:phoneme on]
+[aa<450,24>meh<450,26>now<900,28>] [aa<450,24>meh<450,26>now<900,28>]
+[dow<300,31>riy<300,29>meh<900,28>] [aa<450,24>meh<450,26>now<900,28>]
+[aa<450,24>meh<450,26>now<900,28>] [dow<300,31>riy<300,29>meh<900,28>]
+[laan<300,28>tih<300,29>rey<600,31>] [ihm<300,31>peh<300,29>raa<600,28>]
+[aa<450,24>meh<450,26>now<900,28>] [aa<450,24>meh<450,26>now<900,28>]
+[:dv gv 99][,<5000>laa<30000,25>]
+```
 
 **arab then LAAAA after 25 second wait**
 ```
