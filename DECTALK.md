@@ -20,6 +20,16 @@
 [:dv gv 99][,<5000>laa<30000,25>]
 ```
 
+**its time to du du du duel, folloeed by yu-gi-ohhhhhhhhhhhhhhhhhhhhhhhhhhh**
+```
+[:phone arpa on][:np :ra 220]
+[ihts<200,10> taym<300,10> tuw<200,10> ,<100>
+duw<100,12> duw<100,12> duw<100,14> duw<100,14> ,<50>
+duw<100,16> duw<100,16> duw<100,18> duw<100,18> duw<100,20> ,<50>
+duw<800,25>el<400,20>!]
+[:dv gv 99][,<400> yuw<600,30> giy<600,35> ow<24000,30>!]
+```
+
 **arab then LAAAA after 25 second wait**
 ```
 [:phone arpa on][:np :ra 200]
