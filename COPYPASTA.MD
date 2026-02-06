@@ -20,3 +20,8 @@ ShrekBabyDancing soft ass viewers
 ```
 Davidark_YT HIS MOM IS HOMELESS
 ```
+
+**Meme from cdew chat**
+```
+COME TO ISTANBUL I COOK YOU MUSTACHE IT MULTIPLY
+```
