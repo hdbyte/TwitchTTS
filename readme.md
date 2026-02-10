@@ -152,3 +152,8 @@ watchmojo: L_? L_? L_? L_? L_? K_? L_? L_? L_? L_? L_? K_? L_? L_? L_? L_? L_? K
 ```
 weeknd: yLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWL
 ```
+
+**spongebob found in graycen chat**
+```
+door_knock) spongebob: Who's there? (door_open) (krabs) spongebob: Mister Krabs what are you doing? (ripping) (Slow_clap) spongebob: O? O? O? O? O? O? O? O? O? auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh O? O? auhh O? O? auhh O? O? O? O? O? O? O? O? O? O? O? auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh augh auhh O? O? auhh O? O? auhh O? O? O? O? O? O? O? O? O? O? O? auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh O? O? auhh
+```
