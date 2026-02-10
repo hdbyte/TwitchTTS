@@ -157,3 +157,8 @@ weeknd: yLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWLWLWLWyLWLWL
 ```
 door_knock) spongebob: Who's there? (door_open) (krabs) spongebob: Mister Krabs what are you doing? (ripping) (Slow_clap) spongebob: O? O? O? O? O? O? O? O? O? auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh O? O? auhh O? O? auhh O? O? O? O? O? O? O? O? O? O? O? auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh augh auhh O? O? auhh O? O? auhh O? O? O? O? O? O? O? O? O? O? O? auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh auhh O? O? auhh
 ```
+
+**illidan fahk mee - for graycen chat**
+```
+(phone_ringing) Beauty: This girl doesn't like you like I do. Asmr: Let me show you how much I like you (ripping) (gasp_female) illidan: It is so big big big big! Why dont you just faahk me! faahk mee! fahk meeeee! oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+```
