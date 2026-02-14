@@ -23,6 +23,11 @@ cdew: Hey mitch, check how hard i can hit my head (bonk) ! (silence) ! (silence)
 dracula: Time to mow the lawn! kkona: vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz,vv,zz
 ```
 
+**only meow**
+```
+train: Hi bean. It’s me, your only meow. For Months moew meow created the illusion that meow meow meow meow a large audience. meow meow meow truth: all meow meow in the chat are meow. And meow, for you to be meow of this, meow meow meow meow meow meow meow meow meow. ͏
+```
+
 **Classic FAHK MEEEE**
 ```
 barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; U;U;U;fahk meeeee! fahk meeeee? fahk meeeee? hoe! hoe!? U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; fahk meeeee?
