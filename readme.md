@@ -38,6 +38,11 @@ zerotwo: fawk me! fawk me! o o o o o o o o o o o o o o o o fawk me! fawk me! o o
 barto: hello, bean. I am. your. new. eh cho ehhh. president. You. have. a. new. fine. for. pooping. in. the. pool. To. clear. this. fine. barto: Why don't you faahk me in the ih aah! s ih aah! s ih aah! s fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U; U;U;U;fahk meeeee!
 ```
 
+**idk**
+```
+dracula: Half your chat thinks it's all about starting, stopping, starting, stopping, starting, pausing, starting, stopping and releasing. They are a bunch of incels. Real men care about the experience for the female. Incels everywhere. barto: Where is my daddy! Why dont you just faahk me! faahk mee! fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U
+```
+
 **fahk mee evolved again**
 ```
 (phone_ringing) Beauty: This girl doesn't like you like I do. Asmr: Let me show you how much I like you (pants_unzip) (gasp_female) barto: It is so big big big big! Why dont you just faahk me! faahk mee! fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;
