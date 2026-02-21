@@ -13,6 +13,11 @@ Especially designed for Bean viewers.
 biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, 
 ```
 
+**ahhhh glitch** found in buttsoap
+```
+Javier: XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+```
+
 **Annoying Scream**
 ```
 kkona: OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!
