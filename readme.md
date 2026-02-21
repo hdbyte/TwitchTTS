@@ -13,6 +13,11 @@ Especially designed for Bean viewers.
 biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, biden: (silence) … ,,, 
 ```
 
+**Weird Scream** found in graycen chat
+```
+Kkona: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i:
+```
+
 **ahhhh glitch** found in buttsoap
 ```
 Javier: XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
