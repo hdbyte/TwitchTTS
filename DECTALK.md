@@ -5,6 +5,11 @@
 
 ## DecTalk TTS Scripts
 
+**Annoying**
+```
+[:dv gv 99 ap 10 hs 200 :rate 10]iiiiiiiiii iiiiiiiiii  iiiiiiiiii  iiiiiiiiii  iiiiiiiiii  iiiiiiiiii  iiiiiiiiii  iiiiiiiiii  iiiiiiiiii  iiiiiiiiii
+```
+
 **Song then LAAAAAA**
 ```
 [:phone arpa on][lxaa<300,18>,lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,20>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<300,18>lxaa<300,13>lxaa<300,18>lxaa<150,20>lxaa<300,22>lxaa<300,22>lxaa<150,18>lxaa<150,18>lxaa<150,20>lxaa<150,22>lxaa<600,18>lxaa<150,18>lxaa<150,18>lxaa<150,18>lxaa<150,22>lxaa<150,25>lxaa<150,25>lxaa<300,25>lxaa<150,25>lxaa<150,27>lxaa<150,25>lxaa<150,23>lxaa<150,22>lxaa<150,20>lxaa<300,18>lxaa<150,25>lxaa<150,25>lxaa<300,25>][:dv gv 99][,<5000>laa<30000,25>]
