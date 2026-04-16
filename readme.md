@@ -1,6 +1,4 @@
-# Monster TTS for Twitch
-
-Especially designed for Bean viewers.
+# Common Copy Pasta TTS's for monster
 
 <img src="images/mr_feast_psyduck.png" alt="Mr Feast Psyduck" width="300"/>
 
