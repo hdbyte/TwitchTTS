@@ -23,6 +23,11 @@ Kkona: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :i: :
 Javier: XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 ```
 
+**annoying scream** found in buttsoap
+```
+Cifrar: OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO Cifrar: OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO Cifrar: OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO Cifrar: OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+```
+
 **Annoying Scream**
 ```
 kkona: OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!OIIO!
@@ -68,7 +73,7 @@ dracula: Half your chat thinks it's all about starting, stopping, starting, stop
 (phone_ringing) Beauty: This girl doesn't like you like I do. Asmr: Let me show you how much I like you (pants_unzip) (gasp_female) barto: It is so big big big big! Why dont you just faahk me! faahk mee! fahk meeeee! U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;
 ```
 
-**Classic Fuckaaaa OOH OOH OOOH**
+**Classic Fuckaaaa OOH OOH OOOH (this no longer works)**
 ```
 barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!! barto: laaaaaaaaaaaaaaaaa!!!!
 ```
