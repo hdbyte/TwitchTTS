@@ -25,3 +25,8 @@ Davidark_YT HIS MOM IS HOMELESS
 ```
 COME TO ISTANBUL I COOK YOU MUSTACHE IT MULTIPLY
 ```
+
+**from hunter**
+```
+nah. Hunter’s stream is too childish for people 40+. I like watching Mitch and Andy and can deal with the rot TTS bull on their streams, but Hunter’s stream… holy moly. no thanks.
+```
