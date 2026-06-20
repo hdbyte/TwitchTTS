@@ -222,3 +222,8 @@ Missing some of it.
 ```
 [:nh] [:dv gv 100 hs 150 ap 20 :phoneon] [thruw<600,27> dhah<100,25> peh<500,23> rrel<600,15> ah<800,17>s fay<1500,18>t] [ow<600,18>r dhah<500,18> rrae<900,27>mpah<400,25>rts wiy<600,23> waa<1200,22>cht] [wrr<600,20> sow<300,22> gae<800,23>llah<600>ent lliy<600,18> striy<600,15>miy<1000,11>nx] [ae<400,27>nd dhah<500> raa<400> keh<400,28>ts r eh<400,30>d glley<1200>r] [dhah<300,28> baa<500,27>mz brr<500,25>stih<500,27>nx ih<60
 ```
+
+**loud**
+```
+Prepare for launch in 3. 2. 1. [:ra1 :ph on :nw :dv g3 999 br 1 lx 0 sm -99 hs] [lldx<32767,360>] [:ra1 :ph on :dv g3 60] NUCLEAR EAR FUCK DETECTED [:ra1 :ph on :nw :dv g3 999 br 1 lx 0 sm -99 hs] [llao<32767,34>][llao<32767,34>][llao<32767,34>]
+```
